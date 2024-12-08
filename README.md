@@ -1,4 +1,4 @@
-# New Architecture OS
+# Tiny OS
 
 Update: 
 
